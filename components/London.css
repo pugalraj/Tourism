@@ -1,0 +1,58 @@
+body{
+    /* background-image: url("https://images4.alphacoders.com/736/736803.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.londontop{
+    text-align: center;
+    
+}
+.tit{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    display: inline;
+    color: rgb(89, 32, 32);
+}
+.i1{
+    height: 400px;
+    width: 400px;
+}
+.card{
+    height: 400px;
+    width: 400px;
+    margin-left: 30px;
+    margin-top: 20px;
+    /* display: flex; */
+    display: inline;
+}
+.card2{
+
+    height: 400px;
+    width: 400px;
+    /* display: flex; */
+    /* margin-left: 30px; */
+    /* margin-top: 20px; */
+    display: inline;
+}
+.card-body{
+    background-color: aliceblue;
+}
+.card-img-top{
+    width: 1000px;
+    height: 400px;
+}
+img{
+    width: 1000px;
+}
+.card-body{
+    height: 300px;
+    width: 300px;
+}
+.card{
+    height: 300px;
+    width: 300px;
+}

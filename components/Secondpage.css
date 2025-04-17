@@ -1,0 +1,41 @@
+.first{
+    background-image: url("https://images.pexels.com/photos/6140456/pexels-photo-6140456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    height: 150vh;
+    width:100vw ;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    
+}
+.but{
+    text-align: center;
+}
+.but button{
+    margin-top: 30%;
+    color: black;
+    font-size: 15px;
+    background-color: rgba(221, 180, 0, 0.527);
+    height: 60px;
+    position:relative;
+
+}
+
+.but button {
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-weight:45px;
+    font-style: normal;
+    font-size: 35px;
+  }
+button:hover{
+  background-color: rgba(206, 203, 11, 0.248);
+  transform: translateY(5px);
+} 
+.first h1,h2{
+    text-align: center;
+}
+.first h2{
+    color: white;
+}
+ 

@@ -1,0 +1,85 @@
+.top1{
+    
+    text-align: center;
+    background-image : url("https://images.pexels.com/photos/7634558/pexels-photo-7634558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+.log{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(59, 59, 63);
+}
+/* .form input{
+    height: 20px;
+    width: 250px;
+    text-align: center;
+    margin-top: 30px;
+} */
+.login{
+    height: 400px;
+    width: 400px;
+    background-color: transparent;
+    /* text-align: center; */
+    border-radius: 15px;
+    margin-left: 35%;
+    margin-top: 9%;
+    padding: 10px;
+
+    -webkit-box-shadow: 10px 4px 112px 0px rgba(46,38,46,1);
+-moz-box-shadow: 10px 4px 112px 0px rgba(46,38,46,1);
+box-shadow: 10px 4px 112px 0px rgba(46,38,46,1);
+
+}
+/* .user{
+    height: 5px;
+    width: 250px;
+}
+.pass{
+    height: 5px;
+    width: 250px;
+
+} */
+.user input{
+height: 40px;
+width: 200px;
+border-radius: 15px;
+margin-top: 5px;
+border: none;
+    text-align: center;
+
+}
+
+.pass input{
+height: 40px;
+width: 200px;
+border-radius: 15px;
+margin-top: 15px;
+border: none;
+    text-align: center;
+
+
+
+}
+ button {
+    margin-top: 20px;
+    height: 40px;
+    width: 200px;
+    border-radius: 15px;
+    text-align: center;
+    /* margin-right: 2%; */
+    color: white;
+    /* background-color: beige; */
+    margin-right: 15px;
+    
+
+}
+.sbtn{
+    margin-right: 20px;
+}
